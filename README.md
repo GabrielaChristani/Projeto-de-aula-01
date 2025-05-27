@@ -3,6 +3,8 @@
 🎯 Descrição Geral
 
 Este é um site de um mercadinho virtual criado utilizando HTML, CSS e JavaScript. Nele, os usuários podem visualizar produtos, escolher quantidades e simular uma compra, com direito a um carrinho de compras que calcula os valores automaticamente. O projeto tem um tom humorístico, com nomes criativos e brincadeiras nos produtos e descrições.
+
+
 🏗️ Estrutura do Projeto
 
     HTML (index.html): Define a estrutura do site, com uma lista de produtos. Cada item tem:
